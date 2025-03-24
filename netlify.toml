@@ -1,0 +1,4 @@
+[build]
+  base = "taskmate"
+  publish = "build"
+  command = "npm run build"
